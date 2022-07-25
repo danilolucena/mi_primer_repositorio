@@ -1,3 +1,3 @@
 # mi_primer_repositorio
 
-#Hola Mundo en Github
+#Hola Mundo por consola
